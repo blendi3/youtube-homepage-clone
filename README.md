@@ -21,6 +21,6 @@ To get this project running locally, follow these steps:
    ```sh
    git clone https://github.com/yourusername/youtube-homepage-clone.git
 
-cd youtube-homepage-clone
-npm install
-npm run dev
+2. cd youtube-homepage-clone
+3. npm install
+4. npm run dev
